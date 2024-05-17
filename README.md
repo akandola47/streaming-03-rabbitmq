@@ -170,3 +170,7 @@ Each of the version 2 programs include an error as well.
 - [What is RabbitMQ? IBM Intro Video 10 min](https://www.youtube.com/watch?v=7rkeORD4jSw)
 
 ![Exploring the local virtual environment folder](./images/exploring_dot_venv.PNG)
+
+<img width="1017" alt="Screenshot 2024-05-17 at 3 48 22 PM" src="https://github.com/akandola47/streaming-03-rabbitmq/assets/143216836/c0d1c010-f881-4f9c-98ce-36e11a25761d">
+
+
