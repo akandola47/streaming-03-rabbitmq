@@ -1,5 +1,6 @@
 # streaming-03-rabbitmq
-
+# Arsh Kandola Project 3
+# https://github.com/akandola47/streaming-03-rabbitmq
 > Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary.
 
 This project requires some free code - beyond that available in the Python Standard Library. To avoid messing up our local default Python installation, and any other Python projects we may have, we  create a local virtual environment to install and use these libraries.
@@ -44,7 +45,7 @@ We use .venv as the name to keep it away from our project files.
 
 In the same VS Code terminal window, activate the virtual environment.
 
-- On Windows, run: `.venv\Scripts\activate`
+
 - On Linux/MacOS, run: `source .venv/bin/activate`
 
 Verify you see the virtual environment name (.venv) in your terminal prompt.
